@@ -1,0 +1,17 @@
+/node_modules/
+/npm-debug.log
+/yarn-error.log
+/coverage/
+.DS_Store
+
+/.vscode/
+/.idea/
+
+# yarn https://yarnpkg.com/getting-started/qa#which-files-should-be-gitignored
+.yarn/*
+!.yarn/patches
+!.yarn/releases
+!.yarn/plugins
+!.yarn/sdks
+!.yarn/versions
+.pnp.*
