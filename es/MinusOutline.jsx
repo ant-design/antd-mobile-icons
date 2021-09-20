@@ -31,7 +31,7 @@ function MinusOutline(props) {
   }), /*#__PURE__*/React.createElement("path", {
     d: "M41.1,22.5 C41.3209139,22.5 41.5,22.6790861 41.5,22.9 L41.5,25.1 C41.5,25.3209139 41.3209139,25.5 41.1,25.5 L6.9,25.5 C6.6790861,25.5 6.5,25.3209139 6.5,25.1 L6.5,22.9 C6.5,22.6790861 6.6790861,22.5 6.9,22.5 L41.1,22.5 Z",
     id: "MinusOutline-\u8DEF\u5F84",
-    fill: "#333333",
+    fill: "currentColor",
     fillRule: "nonzero"
   }))));
 }
