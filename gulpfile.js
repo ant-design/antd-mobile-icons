@@ -8,7 +8,7 @@ function clean() {
 
 function buildCJS() {
   return gulp
-    .src(['es/**/*.{js,jsx}'])
+    .src(['es/**/*.js'])
     .pipe(
       babel({
         'plugins': ['@babel/plugin-transform-modules-commonjs'],
