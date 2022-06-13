@@ -1,9 +1,9 @@
 {
   "name": "antd-mobile-icons",
-  "version": "0.2.2",
+  "version": "0.3.0",
   "description": "The icon set for antd-mobile.",
   "repository": "git@github.com:awmleer/antd-mobile-icons.git",
-  "author": "卡晨 <guangbo.hgb@alibaba-inc.com>",
+  "author": "awmleer <awmleer@icloud.com>",
   "license": "MIT",
   "main": "./cjs/index.js",
   "module": "./es/index.js",
