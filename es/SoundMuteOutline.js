@@ -12,7 +12,7 @@ function SoundMuteOutline(props) {
       verticalAlign: '-0.125em'
     }, props.style),
     className: ['antd-mobile-icon', props.className].filter(Boolean).join(' ')
-  }), /*#__PURE__*/React.createElement("title", null, "7F58CC57-4E89-4CF0-A206-DC887988FF43@2x"), /*#__PURE__*/React.createElement("g", {
+  }), /*#__PURE__*/React.createElement("g", {
     id: "SoundMuteOutline-SoundMuteOutline",
     stroke: "none",
     strokeWidth: 1,

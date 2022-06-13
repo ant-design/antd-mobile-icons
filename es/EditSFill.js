@@ -12,7 +12,7 @@ function EditSFill(props) {
       verticalAlign: '-0.125em'
     }, props.style),
     className: ['antd-mobile-icon', props.className].filter(Boolean).join(' ')
-  }), /*#__PURE__*/React.createElement("title", null, "92EB631B-7C12-4AB3-A714-68CD8932E688@2x"), /*#__PURE__*/React.createElement("g", {
+  }), /*#__PURE__*/React.createElement("g", {
     id: "EditSFill-EditSFill",
     stroke: "none",
     strokeWidth: 1,

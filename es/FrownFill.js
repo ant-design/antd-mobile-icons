@@ -12,7 +12,7 @@ function FrownFill(props) {
       verticalAlign: '-0.125em'
     }, props.style),
     className: ['antd-mobile-icon', props.className].filter(Boolean).join(' ')
-  }), /*#__PURE__*/React.createElement("title", null, "D91340B5-7946-4423-834B-861327DD3345@2x"), /*#__PURE__*/React.createElement("g", {
+  }), /*#__PURE__*/React.createElement("g", {
     id: "FrownFill-FrownFill",
     stroke: "none",
     strokeWidth: 1,

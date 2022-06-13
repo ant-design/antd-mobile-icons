@@ -12,7 +12,7 @@ function HistogramOutline(props) {
       verticalAlign: '-0.125em'
     }, props.style),
     className: ['antd-mobile-icon', props.className].filter(Boolean).join(' ')
-  }), /*#__PURE__*/React.createElement("title", null, "0CD5D1A3-B0A2-4057-A068-77220CAD0865@2x"), /*#__PURE__*/React.createElement("g", {
+  }), /*#__PURE__*/React.createElement("g", {
     id: "HistogramOutline-HistogramOutline",
     stroke: "none",
     strokeWidth: 1,

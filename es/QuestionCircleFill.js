@@ -12,7 +12,7 @@ function QuestionCircleFill(props) {
       verticalAlign: '-0.125em'
     }, props.style),
     className: ['antd-mobile-icon', props.className].filter(Boolean).join(' ')
-  }), /*#__PURE__*/React.createElement("title", null, "B2F33C0F-4B79-4069-AE4E-CE2F136984F5@2x"), /*#__PURE__*/React.createElement("g", {
+  }), /*#__PURE__*/React.createElement("g", {
     id: "QuestionCircleFill-QuestionCircleFill",
     stroke: "none",
     strokeWidth: 1,

@@ -12,7 +12,7 @@ function AddOutline(props) {
       verticalAlign: '-0.125em'
     }, props.style),
     className: ['antd-mobile-icon', props.className].filter(Boolean).join(' ')
-  }), /*#__PURE__*/React.createElement("title", null, "33A15659-CFDC-4686-8D0F-7D06C2598A9B@2x"), /*#__PURE__*/React.createElement("g", {
+  }), /*#__PURE__*/React.createElement("g", {
     id: "AddOutline-AddOutline",
     stroke: "none",
     strokeWidth: 1,

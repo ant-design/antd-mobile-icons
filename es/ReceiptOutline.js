@@ -12,7 +12,7 @@ function ReceiptOutline(props) {
       verticalAlign: '-0.125em'
     }, props.style),
     className: ['antd-mobile-icon', props.className].filter(Boolean).join(' ')
-  }), /*#__PURE__*/React.createElement("title", null, "074B1DD6-04F5-4070-AEF2-876CA278DB71@2x"), /*#__PURE__*/React.createElement("g", {
+  }), /*#__PURE__*/React.createElement("g", {
     id: "ReceiptOutline-ReceiptOutline",
     stroke: "none",
     strokeWidth: 1,

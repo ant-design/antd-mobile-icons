@@ -12,7 +12,7 @@ function BillOutline(props) {
       verticalAlign: '-0.125em'
     }, props.style),
     className: ['antd-mobile-icon', props.className].filter(Boolean).join(' ')
-  }), /*#__PURE__*/React.createElement("title", null, "0251C633-6F4F-4546-AB35-6EDF630C824E@2x"), /*#__PURE__*/React.createElement("g", {
+  }), /*#__PURE__*/React.createElement("g", {
     id: "BillOutline-BillOutline",
     stroke: "none",
     strokeWidth: 1,

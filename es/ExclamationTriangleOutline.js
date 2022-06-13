@@ -12,7 +12,7 @@ function ExclamationTriangleOutline(props) {
       verticalAlign: '-0.125em'
     }, props.style),
     className: ['antd-mobile-icon', props.className].filter(Boolean).join(' ')
-  }), /*#__PURE__*/React.createElement("title", null, "D638829D-3BA5-4DC3-9D83-5832777F9C7E@2x"), /*#__PURE__*/React.createElement("g", {
+  }), /*#__PURE__*/React.createElement("g", {
     id: "ExclamationTriangleOutline-ExclamationTriangleOutline",
     stroke: "none",
     strokeWidth: 1,

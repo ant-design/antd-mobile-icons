@@ -12,7 +12,7 @@ function FilterOutline(props) {
       verticalAlign: '-0.125em'
     }, props.style),
     className: ['antd-mobile-icon', props.className].filter(Boolean).join(' ')
-  }), /*#__PURE__*/React.createElement("title", null, "6BD21C12-1C92-4B60-86C8-DF3E6413916A@2x"), /*#__PURE__*/React.createElement("g", {
+  }), /*#__PURE__*/React.createElement("g", {
     id: "FilterOutline-FilterOutline",
     stroke: "none",
     strokeWidth: 1,

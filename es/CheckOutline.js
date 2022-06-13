@@ -12,7 +12,7 @@ function CheckOutline(props) {
       verticalAlign: '-0.125em'
     }, props.style),
     className: ['antd-mobile-icon', props.className].filter(Boolean).join(' ')
-  }), /*#__PURE__*/React.createElement("title", null, "8DE9ADC3-8191-4F11-910A-FEDD01D8E953@2x"), /*#__PURE__*/React.createElement("g", {
+  }), /*#__PURE__*/React.createElement("g", {
     id: "CheckOutline-CheckOutline",
     stroke: "none",
     strokeWidth: 1,

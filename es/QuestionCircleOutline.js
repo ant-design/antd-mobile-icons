@@ -12,7 +12,7 @@ function QuestionCircleOutline(props) {
       verticalAlign: '-0.125em'
     }, props.style),
     className: ['antd-mobile-icon', props.className].filter(Boolean).join(' ')
-  }), /*#__PURE__*/React.createElement("title", null, "638694B9-2AD1-492A-8B7B-66E4C0E2885A@2x"), /*#__PURE__*/React.createElement("g", {
+  }), /*#__PURE__*/React.createElement("g", {
     id: "QuestionCircleOutline-QuestionCircleOutline",
     stroke: "none",
     strokeWidth: 1,

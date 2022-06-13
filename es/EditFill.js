@@ -12,7 +12,7 @@ function EditFill(props) {
       verticalAlign: '-0.125em'
     }, props.style),
     className: ['antd-mobile-icon', props.className].filter(Boolean).join(' ')
-  }), /*#__PURE__*/React.createElement("title", null, "96A45966-8FA3-40DC-9241-7A872448AA16@2x"), /*#__PURE__*/React.createElement("g", {
+  }), /*#__PURE__*/React.createElement("g", {
     id: "EditFill-EditFill",
     stroke: "none",
     strokeWidth: 1,

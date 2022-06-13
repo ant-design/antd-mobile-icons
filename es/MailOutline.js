@@ -12,7 +12,7 @@ function MailOutline(props) {
       verticalAlign: '-0.125em'
     }, props.style),
     className: ['antd-mobile-icon', props.className].filter(Boolean).join(' ')
-  }), /*#__PURE__*/React.createElement("title", null, "5432448B-FC3B-466E-B42C-06DE7A93DD48@2x"), /*#__PURE__*/React.createElement("g", {
+  }), /*#__PURE__*/React.createElement("g", {
     id: "MailOutline-MailOutline",
     stroke: "none",
     strokeWidth: 1,

@@ -12,7 +12,7 @@ function UserContactOutline(props) {
       verticalAlign: '-0.125em'
     }, props.style),
     className: ['antd-mobile-icon', props.className].filter(Boolean).join(' ')
-  }), /*#__PURE__*/React.createElement("title", null, "74D2942F-F587-4E41-9900-AC83B1D81A6A@2x"), /*#__PURE__*/React.createElement("g", {
+  }), /*#__PURE__*/React.createElement("g", {
     id: "UserContactOutline-UserContactOutline",
     stroke: "none",
     strokeWidth: 1,

@@ -12,7 +12,7 @@ function SearchOutline(props) {
       verticalAlign: '-0.125em'
     }, props.style),
     className: ['antd-mobile-icon', props.className].filter(Boolean).join(' ')
-  }), /*#__PURE__*/React.createElement("title", null, "1A7F0A7E-6023-4A8C-9C26-4DD5452D0C85@2x"), /*#__PURE__*/React.createElement("g", {
+  }), /*#__PURE__*/React.createElement("g", {
     id: "SearchOutline-SearchOutline",
     stroke: "none",
     strokeWidth: 1,

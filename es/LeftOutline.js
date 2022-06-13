@@ -12,7 +12,7 @@ function LeftOutline(props) {
       verticalAlign: '-0.125em'
     }, props.style),
     className: ['antd-mobile-icon', props.className].filter(Boolean).join(' ')
-  }), /*#__PURE__*/React.createElement("title", null, "A204776C-9DAE-4D2F-806A-362964924114@2x"), /*#__PURE__*/React.createElement("g", {
+  }), /*#__PURE__*/React.createElement("g", {
     id: "LeftOutline-LeftOutline",
     stroke: "none",
     strokeWidth: 1,

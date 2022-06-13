@@ -12,7 +12,7 @@ function CompassOutline(props) {
       verticalAlign: '-0.125em'
     }, props.style),
     className: ['antd-mobile-icon', props.className].filter(Boolean).join(' ')
-  }), /*#__PURE__*/React.createElement("title", null, "0CCEFE8A-790B-4467-85DC-34EBC9488A5E@2x"), /*#__PURE__*/React.createElement("g", {
+  }), /*#__PURE__*/React.createElement("g", {
     id: "CompassOutline-CompassOutline",
     stroke: "none",
     strokeWidth: 1,

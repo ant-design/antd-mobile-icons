@@ -12,7 +12,7 @@ function CloseCircleOutline(props) {
       verticalAlign: '-0.125em'
     }, props.style),
     className: ['antd-mobile-icon', props.className].filter(Boolean).join(' ')
-  }), /*#__PURE__*/React.createElement("title", null, "D5F156E5-CD49-45BA-8A89-66E1116FD5B7@2x"), /*#__PURE__*/React.createElement("g", {
+  }), /*#__PURE__*/React.createElement("g", {
     id: "CloseCircleOutline-CloseCircleOutline",
     stroke: "none",
     strokeWidth: 1,

@@ -12,7 +12,7 @@ function PhoneFill(props) {
       verticalAlign: '-0.125em'
     }, props.style),
     className: ['antd-mobile-icon', props.className].filter(Boolean).join(' ')
-  }), /*#__PURE__*/React.createElement("title", null, "E05531F1-DAE3-49B0-BBDA-1B49BCC09451@2x"), /*#__PURE__*/React.createElement("g", {
+  }), /*#__PURE__*/React.createElement("g", {
     id: "PhoneFill-PhoneFill",
     stroke: "none",
     strokeWidth: 1,

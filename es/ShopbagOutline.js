@@ -12,7 +12,7 @@ function ShopbagOutline(props) {
       verticalAlign: '-0.125em'
     }, props.style),
     className: ['antd-mobile-icon', props.className].filter(Boolean).join(' ')
-  }), /*#__PURE__*/React.createElement("title", null, "9E802D09-472B-4ADD-B4E4-946DDAB3ECE6@2x"), /*#__PURE__*/React.createElement("g", {
+  }), /*#__PURE__*/React.createElement("g", {
     id: "ShopbagOutline-ShopbagOutline",
     stroke: "none",
     strokeWidth: 1,

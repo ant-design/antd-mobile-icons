@@ -12,7 +12,7 @@ function StarOutline(props) {
       verticalAlign: '-0.125em'
     }, props.style),
     className: ['antd-mobile-icon', props.className].filter(Boolean).join(' ')
-  }), /*#__PURE__*/React.createElement("title", null, "472286C1-AA44-477A-A4B3-63F7AC108C60@2x"), /*#__PURE__*/React.createElement("g", {
+  }), /*#__PURE__*/React.createElement("g", {
     id: "StarOutline-StarOutline",
     stroke: "none",
     strokeWidth: 1,

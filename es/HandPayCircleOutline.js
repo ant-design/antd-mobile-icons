@@ -12,7 +12,7 @@ function HandPayCircleOutline(props) {
       verticalAlign: '-0.125em'
     }, props.style),
     className: ['antd-mobile-icon', props.className].filter(Boolean).join(' ')
-  }), /*#__PURE__*/React.createElement("title", null, "42AF8045-98C0-4B50-A0D3-625AB2C3543D@2x"), /*#__PURE__*/React.createElement("g", {
+  }), /*#__PURE__*/React.createElement("g", {
     id: "HandPayCircleOutline-HandPayCircleOutline",
     stroke: "none",
     strokeWidth: 1,

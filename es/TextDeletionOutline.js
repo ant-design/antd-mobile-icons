@@ -12,7 +12,7 @@ function TextDeletionOutline(props) {
       verticalAlign: '-0.125em'
     }, props.style),
     className: ['antd-mobile-icon', props.className].filter(Boolean).join(' ')
-  }), /*#__PURE__*/React.createElement("title", null, "7753CD2D-D457-43FE-BC07-A115EF61BBA0@2x"), /*#__PURE__*/React.createElement("g", {
+  }), /*#__PURE__*/React.createElement("g", {
     id: "TextDeletionOutline-TextDeletionOutline",
     stroke: "none",
     strokeWidth: 1,

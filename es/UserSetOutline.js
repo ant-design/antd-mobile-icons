@@ -12,7 +12,7 @@ function UserSetOutline(props) {
       verticalAlign: '-0.125em'
     }, props.style),
     className: ['antd-mobile-icon', props.className].filter(Boolean).join(' ')
-  }), /*#__PURE__*/React.createElement("title", null, "B69B9A0A-54B7-41F8-843C-B6E7E8402BED@2x"), /*#__PURE__*/React.createElement("g", {
+  }), /*#__PURE__*/React.createElement("g", {
     id: "UserSetOutline-UserSetOutline",
     stroke: "none",
     strokeWidth: 1,

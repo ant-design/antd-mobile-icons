@@ -12,7 +12,7 @@ function ReceivePaymentOutline(props) {
       verticalAlign: '-0.125em'
     }, props.style),
     className: ['antd-mobile-icon', props.className].filter(Boolean).join(' ')
-  }), /*#__PURE__*/React.createElement("title", null, "6938ECD1-4371-45A7-87F6-24BD01A1F20A@2x"), /*#__PURE__*/React.createElement("g", {
+  }), /*#__PURE__*/React.createElement("g", {
     id: "ReceivePaymentOutline-ReceivePaymentOutline",
     stroke: "none",
     strokeWidth: 1,

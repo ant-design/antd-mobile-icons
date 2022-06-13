@@ -12,7 +12,7 @@ function MessageOutline(props) {
       verticalAlign: '-0.125em'
     }, props.style),
     className: ['antd-mobile-icon', props.className].filter(Boolean).join(' ')
-  }), /*#__PURE__*/React.createElement("title", null, "C9888081-5AA3-4832-BBB7-9CDFBE683555@2x"), /*#__PURE__*/React.createElement("g", {
+  }), /*#__PURE__*/React.createElement("g", {
     id: "MessageOutline-MessageOutline",
     stroke: "none",
     strokeWidth: 1,

@@ -12,7 +12,7 @@ function SendOutline(props) {
       verticalAlign: '-0.125em'
     }, props.style),
     className: ['antd-mobile-icon', props.className].filter(Boolean).join(' ')
-  }), /*#__PURE__*/React.createElement("title", null, "8869AF60-690A-43D7-9671-5A0870551392@2x"), /*#__PURE__*/React.createElement("g", {
+  }), /*#__PURE__*/React.createElement("g", {
     id: "SendOutline-SendOutline",
     stroke: "none",
     strokeWidth: 1,

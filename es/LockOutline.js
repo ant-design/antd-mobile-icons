@@ -12,7 +12,7 @@ function LockOutline(props) {
       verticalAlign: '-0.125em'
     }, props.style),
     className: ['antd-mobile-icon', props.className].filter(Boolean).join(' ')
-  }), /*#__PURE__*/React.createElement("title", null, "967612BF-3643-4953-B59D-88EBEC95A936@2x"), /*#__PURE__*/React.createElement("g", {
+  }), /*#__PURE__*/React.createElement("g", {
     id: "LockOutline-LockOutline",
     stroke: "none",
     strokeWidth: 1,

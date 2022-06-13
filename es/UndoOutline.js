@@ -12,7 +12,7 @@ function UndoOutline(props) {
       verticalAlign: '-0.125em'
     }, props.style),
     className: ['antd-mobile-icon', props.className].filter(Boolean).join(' ')
-  }), /*#__PURE__*/React.createElement("title", null, "381E6E11-EA1C-4CB3-97E4-608DAFBCEFBF@2x"), /*#__PURE__*/React.createElement("g", {
+  }), /*#__PURE__*/React.createElement("g", {
     id: "UndoOutline-UndoOutline",
     stroke: "none",
     strokeWidth: 1,

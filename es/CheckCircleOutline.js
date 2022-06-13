@@ -12,7 +12,7 @@ function CheckCircleOutline(props) {
       verticalAlign: '-0.125em'
     }, props.style),
     className: ['antd-mobile-icon', props.className].filter(Boolean).join(' ')
-  }), /*#__PURE__*/React.createElement("title", null, "F221CA15-2243-465A-A545-388197237FCB@2x"), /*#__PURE__*/React.createElement("g", {
+  }), /*#__PURE__*/React.createElement("g", {
     id: "CheckCircleOutline-CheckCircleOutline",
     stroke: "none",
     strokeWidth: 1,

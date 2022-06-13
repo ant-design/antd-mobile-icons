@@ -12,7 +12,7 @@ function AddressBookFill(props) {
       verticalAlign: '-0.125em'
     }, props.style),
     className: ['antd-mobile-icon', props.className].filter(Boolean).join(' ')
-  }), /*#__PURE__*/React.createElement("title", null, "27F1DA57-CBB4-418F-A052-1883AF803672@2x"), /*#__PURE__*/React.createElement("g", {
+  }), /*#__PURE__*/React.createElement("g", {
     id: "AddressBookFill-AddressBookFill",
     stroke: "none",
     strokeWidth: 1,

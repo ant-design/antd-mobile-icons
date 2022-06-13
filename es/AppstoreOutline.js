@@ -12,7 +12,7 @@ function AppstoreOutline(props) {
       verticalAlign: '-0.125em'
     }, props.style),
     className: ['antd-mobile-icon', props.className].filter(Boolean).join(' ')
-  }), /*#__PURE__*/React.createElement("title", null, "484E1D4F-006D-4D09-AFCB-A984FC8435CF@2x"), /*#__PURE__*/React.createElement("g", {
+  }), /*#__PURE__*/React.createElement("g", {
     id: "AppstoreOutline-AppstoreOutline",
     stroke: "none",
     strokeWidth: 1,

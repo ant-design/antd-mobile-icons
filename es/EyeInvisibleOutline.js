@@ -12,7 +12,7 @@ function EyeInvisibleOutline(props) {
       verticalAlign: '-0.125em'
     }, props.style),
     className: ['antd-mobile-icon', props.className].filter(Boolean).join(' ')
-  }), /*#__PURE__*/React.createElement("title", null, "6D492E78-45D0-40C2-834C-AAFCCCD8BAB5@2x"), /*#__PURE__*/React.createElement("g", {
+  }), /*#__PURE__*/React.createElement("g", {
     id: "EyeInvisibleOutline-EyeInvisibleOutline",
     stroke: "none",
     strokeWidth: 1,

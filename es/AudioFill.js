@@ -12,7 +12,7 @@ function AudioFill(props) {
       verticalAlign: '-0.125em'
     }, props.style),
     className: ['antd-mobile-icon', props.className].filter(Boolean).join(' ')
-  }), /*#__PURE__*/React.createElement("title", null, "0B20AB77-30F4-46C0-A143-48EA49AFA532@2x"), /*#__PURE__*/React.createElement("g", {
+  }), /*#__PURE__*/React.createElement("g", {
     id: "AudioFill-AudioFill",
     stroke: "none",
     strokeWidth: 1,

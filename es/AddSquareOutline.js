@@ -12,7 +12,7 @@ function AddSquareOutline(props) {
       verticalAlign: '-0.125em'
     }, props.style),
     className: ['antd-mobile-icon', props.className].filter(Boolean).join(' ')
-  }), /*#__PURE__*/React.createElement("title", null, "3485C32A-18D2-4DD1-B001-042A13FEC9F7@2x"), /*#__PURE__*/React.createElement("g", {
+  }), /*#__PURE__*/React.createElement("g", {
     id: "AddSquareOutline-AddSquareOutline",
     stroke: "none",
     strokeWidth: 1,

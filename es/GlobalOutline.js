@@ -12,7 +12,7 @@ function GlobalOutline(props) {
       verticalAlign: '-0.125em'
     }, props.style),
     className: ['antd-mobile-icon', props.className].filter(Boolean).join(' ')
-  }), /*#__PURE__*/React.createElement("title", null, "5AFBCE9B-EE23-4B3A-9AA8-C2AA03A80782@2x"), /*#__PURE__*/React.createElement("g", {
+  }), /*#__PURE__*/React.createElement("g", {
     id: "GlobalOutline-GlobalOutline",
     stroke: "none",
     strokeWidth: 1,

@@ -12,7 +12,7 @@ function TeamFill(props) {
       verticalAlign: '-0.125em'
     }, props.style),
     className: ['antd-mobile-icon', props.className].filter(Boolean).join(' ')
-  }), /*#__PURE__*/React.createElement("title", null, "39B89FB7-DC8D-4A00-BE91-089860890151@2x"), /*#__PURE__*/React.createElement("g", {
+  }), /*#__PURE__*/React.createElement("g", {
     id: "TeamFill-TeamFill",
     stroke: "none",
     strokeWidth: 1,

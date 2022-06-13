@@ -12,7 +12,7 @@ function FillinOutline(props) {
       verticalAlign: '-0.125em'
     }, props.style),
     className: ['antd-mobile-icon', props.className].filter(Boolean).join(' ')
-  }), /*#__PURE__*/React.createElement("title", null, "1352BBF9-37AB-4467-B7B2-DEB5EDE16759@2x"), /*#__PURE__*/React.createElement("g", {
+  }), /*#__PURE__*/React.createElement("g", {
     id: "FillinOutline-FillinOutline",
     stroke: "none",
     strokeWidth: 1,

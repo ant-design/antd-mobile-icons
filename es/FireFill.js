@@ -12,7 +12,7 @@ function FireFill(props) {
       verticalAlign: '-0.125em'
     }, props.style),
     className: ['antd-mobile-icon', props.className].filter(Boolean).join(' ')
-  }), /*#__PURE__*/React.createElement("title", null, "803D6E38-25BC-4410-A1FF-46A479EAAF6E@2x"), /*#__PURE__*/React.createElement("g", {
+  }), /*#__PURE__*/React.createElement("g", {
     id: "FireFill-FireFill",
     stroke: "none",
     strokeWidth: 1,

@@ -12,7 +12,7 @@ function CollectMoneyOutline(props) {
       verticalAlign: '-0.125em'
     }, props.style),
     className: ['antd-mobile-icon', props.className].filter(Boolean).join(' ')
-  }), /*#__PURE__*/React.createElement("title", null, "6CF6D09E-F624-47A7-B864-BB70C7475128@2x"), /*#__PURE__*/React.createElement("g", {
+  }), /*#__PURE__*/React.createElement("g", {
     id: "CollectMoneyOutline-CollectMoneyOutline",
     stroke: "none",
     strokeWidth: 1,

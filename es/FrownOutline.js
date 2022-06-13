@@ -12,7 +12,7 @@ function FrownOutline(props) {
       verticalAlign: '-0.125em'
     }, props.style),
     className: ['antd-mobile-icon', props.className].filter(Boolean).join(' ')
-  }), /*#__PURE__*/React.createElement("title", null, "7FAC00A1-71E5-478B-9E7A-042750BAC8F6@2x"), /*#__PURE__*/React.createElement("g", {
+  }), /*#__PURE__*/React.createElement("g", {
     id: "FrownOutline-FrownOutline",
     stroke: "none",
     strokeWidth: 1,

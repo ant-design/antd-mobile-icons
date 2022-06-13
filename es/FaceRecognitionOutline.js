@@ -12,7 +12,7 @@ function FaceRecognitionOutline(props) {
       verticalAlign: '-0.125em'
     }, props.style),
     className: ['antd-mobile-icon', props.className].filter(Boolean).join(' ')
-  }), /*#__PURE__*/React.createElement("title", null, "E6F9DCB4-DA7A-43C9-A459-9AE21170B1E9@2x"), /*#__PURE__*/React.createElement("g", {
+  }), /*#__PURE__*/React.createElement("g", {
     id: "FaceRecognitionOutline-FaceRecognitionOutline-",
     stroke: "none",
     strokeWidth: 1,

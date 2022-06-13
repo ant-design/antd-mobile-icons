@@ -12,7 +12,7 @@ function TeamOutline(props) {
       verticalAlign: '-0.125em'
     }, props.style),
     className: ['antd-mobile-icon', props.className].filter(Boolean).join(' ')
-  }), /*#__PURE__*/React.createElement("title", null, "67E0656C-10C4-472B-92DF-B838E92F53B6@2x"), /*#__PURE__*/React.createElement("g", {
+  }), /*#__PURE__*/React.createElement("g", {
     id: "TeamOutline-TeamOutline",
     stroke: "none",
     strokeWidth: 1,

@@ -12,7 +12,7 @@ function BankcardOutline(props) {
       verticalAlign: '-0.125em'
     }, props.style),
     className: ['antd-mobile-icon', props.className].filter(Boolean).join(' ')
-  }), /*#__PURE__*/React.createElement("title", null, "7BD2C5FC-6468-4881-828C-866F08CC1E35@2x"), /*#__PURE__*/React.createElement("g", {
+  }), /*#__PURE__*/React.createElement("g", {
     id: "BankcardOutline-BankcardOutline",
     stroke: "none",
     strokeWidth: 1,

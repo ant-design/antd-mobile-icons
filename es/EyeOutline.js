@@ -12,7 +12,7 @@ function EyeOutline(props) {
       verticalAlign: '-0.125em'
     }, props.style),
     className: ['antd-mobile-icon', props.className].filter(Boolean).join(' ')
-  }), /*#__PURE__*/React.createElement("title", null, "3A982063-3D8C-4C8F-839B-1DFE7B4D7D1B@2x"), /*#__PURE__*/React.createElement("g", {
+  }), /*#__PURE__*/React.createElement("g", {
     id: "EyeOutline-EyeOutline",
     stroke: "none",
     strokeWidth: 1,

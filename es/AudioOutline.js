@@ -12,7 +12,7 @@ function AudioOutline(props) {
       verticalAlign: '-0.125em'
     }, props.style),
     className: ['antd-mobile-icon', props.className].filter(Boolean).join(' ')
-  }), /*#__PURE__*/React.createElement("title", null, "AC99233B-6B6A-4FF2-A957-A8E9422A29E2@2x"), /*#__PURE__*/React.createElement("g", {
+  }), /*#__PURE__*/React.createElement("g", {
     id: "AudioOutline-AudioOutline",
     stroke: "none",
     strokeWidth: 1,

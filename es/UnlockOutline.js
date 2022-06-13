@@ -12,7 +12,7 @@ function UnlockOutline(props) {
       verticalAlign: '-0.125em'
     }, props.style),
     className: ['antd-mobile-icon', props.className].filter(Boolean).join(' ')
-  }), /*#__PURE__*/React.createElement("title", null, "0B66DA05-CE0E-4AF5-9B51-4F1E400F7B1D@2x"), /*#__PURE__*/React.createElement("g", {
+  }), /*#__PURE__*/React.createElement("g", {
     id: "UnlockOutline-UnlockOutline",
     stroke: "none",
     strokeWidth: 1,

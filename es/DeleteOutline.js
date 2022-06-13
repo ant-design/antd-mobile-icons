@@ -12,7 +12,7 @@ function DeleteOutline(props) {
       verticalAlign: '-0.125em'
     }, props.style),
     className: ['antd-mobile-icon', props.className].filter(Boolean).join(' ')
-  }), /*#__PURE__*/React.createElement("title", null, "7C336218-72B0-41E5-89BB-41C2491F1AB6@2x"), /*#__PURE__*/React.createElement("g", {
+  }), /*#__PURE__*/React.createElement("g", {
     id: "DeleteOutline-DeleteOutline",
     stroke: "none",
     strokeWidth: 1,

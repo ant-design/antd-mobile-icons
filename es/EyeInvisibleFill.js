@@ -12,7 +12,7 @@ function EyeInvisibleFill(props) {
       verticalAlign: '-0.125em'
     }, props.style),
     className: ['antd-mobile-icon', props.className].filter(Boolean).join(' ')
-  }), /*#__PURE__*/React.createElement("title", null, "8D6B9C64-2D30-4F3B-8F47-1BA0C76EDF64@2x"), /*#__PURE__*/React.createElement("g", {
+  }), /*#__PURE__*/React.createElement("g", {
     id: "EyeInvisibleFill-EyeInvisibleFill",
     stroke: "none",
     strokeWidth: 1,

@@ -12,7 +12,7 @@ function KoubeiFill(props) {
       verticalAlign: '-0.125em'
     }, props.style),
     className: ['antd-mobile-icon', props.className].filter(Boolean).join(' ')
-  }), /*#__PURE__*/React.createElement("title", null, "134FBE61-35E4-4C31-88E8-AF0AE5378DCC@2x"), /*#__PURE__*/React.createElement("g", {
+  }), /*#__PURE__*/React.createElement("g", {
     id: "KoubeiFill-KoubeiFill",
     stroke: "none",
     strokeWidth: 1,

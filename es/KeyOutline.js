@@ -12,7 +12,7 @@ function KeyOutline(props) {
       verticalAlign: '-0.125em'
     }, props.style),
     className: ['antd-mobile-icon', props.className].filter(Boolean).join(' ')
-  }), /*#__PURE__*/React.createElement("title", null, "9E93D9BA-8387-4588-8A05-1E6CE0793721@2x"), /*#__PURE__*/React.createElement("g", {
+  }), /*#__PURE__*/React.createElement("g", {
     id: "KeyOutline-KeyOutline",
     stroke: "none",
     strokeWidth: 1,

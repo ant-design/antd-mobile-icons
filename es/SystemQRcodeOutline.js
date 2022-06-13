@@ -12,7 +12,7 @@ function SystemQRcodeOutline(props) {
       verticalAlign: '-0.125em'
     }, props.style),
     className: ['antd-mobile-icon', props.className].filter(Boolean).join(' ')
-  }), /*#__PURE__*/React.createElement("title", null, "AD82BA2D-2A6D-437A-AD61-57214DDF5685@2x"), /*#__PURE__*/React.createElement("g", {
+  }), /*#__PURE__*/React.createElement("g", {
     id: "SystemQRcodeOutline-SystemQRcodeOutline",
     stroke: "none",
     strokeWidth: 1,

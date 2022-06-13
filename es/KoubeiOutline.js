@@ -12,7 +12,7 @@ function KoubeiOutline(props) {
       verticalAlign: '-0.125em'
     }, props.style),
     className: ['antd-mobile-icon', props.className].filter(Boolean).join(' ')
-  }), /*#__PURE__*/React.createElement("title", null, "645E6969-48E6-42C5-83AC-E8E9DF9A604D@2x"), /*#__PURE__*/React.createElement("g", {
+  }), /*#__PURE__*/React.createElement("g", {
     id: "KoubeiOutline-KoubeiOutline",
     stroke: "none",
     strokeWidth: 1,

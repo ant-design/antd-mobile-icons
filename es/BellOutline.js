@@ -12,7 +12,7 @@ function BellOutline(props) {
       verticalAlign: '-0.125em'
     }, props.style),
     className: ['antd-mobile-icon', props.className].filter(Boolean).join(' ')
-  }), /*#__PURE__*/React.createElement("title", null, "82ECAAEA-7A93-455B-92B2-30982747D516@2x"), /*#__PURE__*/React.createElement("g", {
+  }), /*#__PURE__*/React.createElement("g", {
     id: "BellOutline-BellOutline",
     stroke: "none",
     strokeWidth: 1,

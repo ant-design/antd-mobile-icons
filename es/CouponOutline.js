@@ -12,7 +12,7 @@ function CouponOutline(props) {
       verticalAlign: '-0.125em'
     }, props.style),
     className: ['antd-mobile-icon', props.className].filter(Boolean).join(' ')
-  }), /*#__PURE__*/React.createElement("title", null, "728911AE-2310-484B-936F-68975C54443D@2x"), /*#__PURE__*/React.createElement("g", {
+  }), /*#__PURE__*/React.createElement("g", {
     id: "CouponOutline-CouponOutline",
     stroke: "none",
     strokeWidth: 1,

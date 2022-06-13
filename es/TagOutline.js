@@ -12,7 +12,7 @@ function TagOutline(props) {
       verticalAlign: '-0.125em'
     }, props.style),
     className: ['antd-mobile-icon', props.className].filter(Boolean).join(' ')
-  }), /*#__PURE__*/React.createElement("title", null, "DB5C77BF-652D-4C91-ADA1-F91312B8706A@2x"), /*#__PURE__*/React.createElement("g", {
+  }), /*#__PURE__*/React.createElement("g", {
     id: "TagOutline-TagOutline",
     stroke: "none",
     strokeWidth: 1,

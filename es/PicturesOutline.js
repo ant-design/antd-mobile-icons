@@ -12,7 +12,7 @@ function PicturesOutline(props) {
       verticalAlign: '-0.125em'
     }, props.style),
     className: ['antd-mobile-icon', props.className].filter(Boolean).join(' ')
-  }), /*#__PURE__*/React.createElement("title", null, "61AAB389-3EC1-4121-9B67-F7C4E81E74E4@2x"), /*#__PURE__*/React.createElement("g", {
+  }), /*#__PURE__*/React.createElement("g", {
     id: "PicturesOutline-PicturesOutline",
     stroke: "none",
     strokeWidth: 1,

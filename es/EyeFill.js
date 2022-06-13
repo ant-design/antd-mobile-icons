@@ -12,7 +12,7 @@ function EyeFill(props) {
       verticalAlign: '-0.125em'
     }, props.style),
     className: ['antd-mobile-icon', props.className].filter(Boolean).join(' ')
-  }), /*#__PURE__*/React.createElement("title", null, "2EF83742-BBBF-481F-ABB4-F2230E8B11E0@2x"), /*#__PURE__*/React.createElement("g", {
+  }), /*#__PURE__*/React.createElement("g", {
     id: "EyeFill-EyeFill",
     stroke: "none",
     strokeWidth: 1,

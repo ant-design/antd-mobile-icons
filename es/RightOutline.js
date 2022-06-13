@@ -12,7 +12,7 @@ function RightOutline(props) {
       verticalAlign: '-0.125em'
     }, props.style),
     className: ['antd-mobile-icon', props.className].filter(Boolean).join(' ')
-  }), /*#__PURE__*/React.createElement("title", null, "89BAD3EA-8870-4856-ADA3-DECC08C3B283@2x"), /*#__PURE__*/React.createElement("g", {
+  }), /*#__PURE__*/React.createElement("g", {
     id: "RightOutline-RightOutline",
     stroke: "none",
     strokeWidth: 1,

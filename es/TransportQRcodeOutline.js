@@ -12,7 +12,7 @@ function TransportQRcodeOutline(props) {
       verticalAlign: '-0.125em'
     }, props.style),
     className: ['antd-mobile-icon', props.className].filter(Boolean).join(' ')
-  }), /*#__PURE__*/React.createElement("title", null, "DDBB8EA9-5F3A-42BC-B184-1F3CA6D5AA07@2x"), /*#__PURE__*/React.createElement("g", {
+  }), /*#__PURE__*/React.createElement("g", {
     id: "TransportQRcodeOutline-TransportQRcodeOutline",
     stroke: "none",
     strokeWidth: 1,

@@ -12,7 +12,7 @@ function ExclamationCircleFill(props) {
       verticalAlign: '-0.125em'
     }, props.style),
     className: ['antd-mobile-icon', props.className].filter(Boolean).join(' ')
-  }), /*#__PURE__*/React.createElement("title", null, "BF303676-47FC-4A83-8A4F-038B11ECC5CC@2x"), /*#__PURE__*/React.createElement("g", {
+  }), /*#__PURE__*/React.createElement("g", {
     id: "ExclamationCircleFill-ExclamationCircleFill",
     stroke: "none",
     strokeWidth: 1,

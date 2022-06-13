@@ -12,7 +12,7 @@ function StopOutline(props) {
       verticalAlign: '-0.125em'
     }, props.style),
     className: ['antd-mobile-icon', props.className].filter(Boolean).join(' ')
-  }), /*#__PURE__*/React.createElement("title", null, "6E0DBBB8-7960-49E0-B168-F7F6DDE30307@2x"), /*#__PURE__*/React.createElement("g", {
+  }), /*#__PURE__*/React.createElement("g", {
     id: "StopOutline-StopOutline",
     stroke: "none",
     strokeWidth: 1,

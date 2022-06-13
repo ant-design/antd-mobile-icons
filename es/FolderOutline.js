@@ -12,7 +12,7 @@ function FolderOutline(props) {
       verticalAlign: '-0.125em'
     }, props.style),
     className: ['antd-mobile-icon', props.className].filter(Boolean).join(' ')
-  }), /*#__PURE__*/React.createElement("title", null, "590A0A3C-87F2-428D-9324-D35F7A4F8DBD@2x"), /*#__PURE__*/React.createElement("g", {
+  }), /*#__PURE__*/React.createElement("g", {
     id: "FolderOutline-FolderOutline",
     stroke: "none",
     strokeWidth: 1,

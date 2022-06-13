@@ -12,7 +12,7 @@ function ArrowsAltOutline(props) {
       verticalAlign: '-0.125em'
     }, props.style),
     className: ['antd-mobile-icon', props.className].filter(Boolean).join(' ')
-  }), /*#__PURE__*/React.createElement("title", null, "2136027D-55E1-4DBA-BC5C-40D017646AF0@2x"), /*#__PURE__*/React.createElement("g", {
+  }), /*#__PURE__*/React.createElement("g", {
     id: "ArrowsAltOutline-ArrowsAltOutline",
     stroke: "none",
     strokeWidth: 1,

@@ -12,7 +12,7 @@ function TravelOutline(props) {
       verticalAlign: '-0.125em'
     }, props.style),
     className: ['antd-mobile-icon', props.className].filter(Boolean).join(' ')
-  }), /*#__PURE__*/React.createElement("title", null, "4355F55C-ECF1-4FE8-BA09-11D4830DF643@2x"), /*#__PURE__*/React.createElement("g", {
+  }), /*#__PURE__*/React.createElement("g", {
     id: "TravelOutline-TravelOutline",
     stroke: "none",
     strokeWidth: 1,

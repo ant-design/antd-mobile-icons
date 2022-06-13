@@ -12,7 +12,7 @@ function ScanningFaceOutline(props) {
       verticalAlign: '-0.125em'
     }, props.style),
     className: ['antd-mobile-icon', props.className].filter(Boolean).join(' ')
-  }), /*#__PURE__*/React.createElement("title", null, "71A120B4-F46C-4CB1-B0C6-FAB87D9AEB00@2x"), /*#__PURE__*/React.createElement("g", {
+  }), /*#__PURE__*/React.createElement("g", {
     id: "ScanningFaceOutline-ScanningFaceOutline",
     stroke: "none",
     strokeWidth: 1,

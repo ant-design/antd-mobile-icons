@@ -12,7 +12,7 @@ function LikeOutline(props) {
       verticalAlign: '-0.125em'
     }, props.style),
     className: ['antd-mobile-icon', props.className].filter(Boolean).join(' ')
-  }), /*#__PURE__*/React.createElement("title", null, "F27F39B4-794F-4BC6-86EA-19A06E5C6925@2x"), /*#__PURE__*/React.createElement("g", {
+  }), /*#__PURE__*/React.createElement("g", {
     id: "LikeOutline-LikeOutline",
     stroke: "none",
     strokeWidth: 1,

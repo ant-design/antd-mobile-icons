@@ -12,7 +12,7 @@ function RedoOutline(props) {
       verticalAlign: '-0.125em'
     }, props.style),
     className: ['antd-mobile-icon', props.className].filter(Boolean).join(' ')
-  }), /*#__PURE__*/React.createElement("title", null, "1198C364-CFDA-432F-930D-F61F197F4EA5@2x"), /*#__PURE__*/React.createElement("g", {
+  }), /*#__PURE__*/React.createElement("g", {
     id: "RedoOutline-RedoOutline",
     stroke: "none",
     strokeWidth: 1,

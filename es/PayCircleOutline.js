@@ -12,7 +12,7 @@ function PayCircleOutline(props) {
       verticalAlign: '-0.125em'
     }, props.style),
     className: ['antd-mobile-icon', props.className].filter(Boolean).join(' ')
-  }), /*#__PURE__*/React.createElement("title", null, "E5644250-250E-4B0A-A014-458F650E1E82@2x"), /*#__PURE__*/React.createElement("g", {
+  }), /*#__PURE__*/React.createElement("g", {
     id: "PayCircleOutline-PayCircleOutline",
     stroke: "none",
     strokeWidth: 1,

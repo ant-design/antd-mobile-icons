@@ -12,7 +12,7 @@ function HeartOutline(props) {
       verticalAlign: '-0.125em'
     }, props.style),
     className: ['antd-mobile-icon', props.className].filter(Boolean).join(' ')
-  }), /*#__PURE__*/React.createElement("title", null, "25FEB8D1-3F8F-47A1-A74B-FD185E2AC4BF@2x"), /*#__PURE__*/React.createElement("g", {
+  }), /*#__PURE__*/React.createElement("g", {
     id: "HeartOutline-HeartOutline",
     stroke: "none",
     strokeWidth: 1,

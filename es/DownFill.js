@@ -12,7 +12,7 @@ function DownFill(props) {
       verticalAlign: '-0.125em'
     }, props.style),
     className: ['antd-mobile-icon', props.className].filter(Boolean).join(' ')
-  }), /*#__PURE__*/React.createElement("title", null, "8C01EF67-304C-465C-BFE3-6D9C53F88E3D@2x"), /*#__PURE__*/React.createElement("g", {
+  }), /*#__PURE__*/React.createElement("g", {
     id: "DownFill-DownFill",
     stroke: "none",
     strokeWidth: 1,

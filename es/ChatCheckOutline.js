@@ -12,7 +12,7 @@ function ChatCheckOutline(props) {
       verticalAlign: '-0.125em'
     }, props.style),
     className: ['antd-mobile-icon', props.className].filter(Boolean).join(' ')
-  }), /*#__PURE__*/React.createElement("title", null, "22000EBC-5D47-4C15-9D88-835E0AFFDFC7@2x"), /*#__PURE__*/React.createElement("g", {
+  }), /*#__PURE__*/React.createElement("g", {
     id: "ChatCheckOutline-ChatCheckOutline",
     stroke: "none",
     strokeWidth: 1,

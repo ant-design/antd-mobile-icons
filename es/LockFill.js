@@ -12,7 +12,7 @@ function LockFill(props) {
       verticalAlign: '-0.125em'
     }, props.style),
     className: ['antd-mobile-icon', props.className].filter(Boolean).join(' ')
-  }), /*#__PURE__*/React.createElement("title", null, "10567D7B-354F-4AB9-8EE1-A159EB094F96@2x"), /*#__PURE__*/React.createElement("g", {
+  }), /*#__PURE__*/React.createElement("g", {
     id: "LockFill-LockFill",
     stroke: "none",
     strokeWidth: 1,

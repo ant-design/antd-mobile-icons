@@ -12,7 +12,7 @@ function FingerdownOutline(props) {
       verticalAlign: '-0.125em'
     }, props.style),
     className: ['antd-mobile-icon', props.className].filter(Boolean).join(' ')
-  }), /*#__PURE__*/React.createElement("title", null, "E397BFB5-CB56-475C-9728-BF35E44F4C90@2x"), /*#__PURE__*/React.createElement("g", {
+  }), /*#__PURE__*/React.createElement("g", {
     id: "FingerdownOutline-FingerdownOutline",
     stroke: "none",
     strokeWidth: 1,

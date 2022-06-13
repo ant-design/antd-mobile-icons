@@ -12,7 +12,7 @@ function MinusCircleOutline(props) {
       verticalAlign: '-0.125em'
     }, props.style),
     className: ['antd-mobile-icon', props.className].filter(Boolean).join(' ')
-  }), /*#__PURE__*/React.createElement("title", null, "5EA2973D-0BBC-4C4B-90FD-FE30445888C3@2x"), /*#__PURE__*/React.createElement("g", {
+  }), /*#__PURE__*/React.createElement("g", {
     id: "MinusCircleOutline-MinusCircleOutline",
     stroke: "none",
     strokeWidth: 1,

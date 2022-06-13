@@ -12,7 +12,7 @@ function AddCircleOutline(props) {
       verticalAlign: '-0.125em'
     }, props.style),
     className: ['antd-mobile-icon', props.className].filter(Boolean).join(' ')
-  }), /*#__PURE__*/React.createElement("title", null, "A2835228-44C1-403D-B5F4-CFF5FCB9E7DF@2x"), /*#__PURE__*/React.createElement("g", {
+  }), /*#__PURE__*/React.createElement("g", {
     id: "AddCircleOutline-AddCircleOutline",
     stroke: "none",
     strokeWidth: 1,

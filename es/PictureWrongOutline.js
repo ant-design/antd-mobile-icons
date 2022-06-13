@@ -12,7 +12,7 @@ function PictureWrongOutline(props) {
       verticalAlign: '-0.125em'
     }, props.style),
     className: ['antd-mobile-icon', props.className].filter(Boolean).join(' ')
-  }), /*#__PURE__*/React.createElement("title", null, "E3CC186A-732B-41F7-840F-94DFEB4A19D7@2x"), /*#__PURE__*/React.createElement("g", {
+  }), /*#__PURE__*/React.createElement("g", {
     id: "PictureWrongOutline-PictureWrongOutline",
     stroke: "none",
     strokeWidth: 1,

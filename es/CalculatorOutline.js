@@ -12,7 +12,7 @@ function CalculatorOutline(props) {
       verticalAlign: '-0.125em'
     }, props.style),
     className: ['antd-mobile-icon', props.className].filter(Boolean).join(' ')
-  }), /*#__PURE__*/React.createElement("title", null, "CA19ADAB-B4F5-4A64-AF4F-900ADCD0C705@2x"), /*#__PURE__*/React.createElement("g", {
+  }), /*#__PURE__*/React.createElement("g", {
     id: "CalculatorOutline-CalculatorOutline",
     stroke: "none",
     strokeWidth: 1,

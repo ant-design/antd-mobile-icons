@@ -12,7 +12,7 @@ function PieOutline(props) {
       verticalAlign: '-0.125em'
     }, props.style),
     className: ['antd-mobile-icon', props.className].filter(Boolean).join(' ')
-  }), /*#__PURE__*/React.createElement("title", null, "B0684F73-922B-4645-8FF4-C2E50D00F9A4@2x"), /*#__PURE__*/React.createElement("g", {
+  }), /*#__PURE__*/React.createElement("g", {
     id: "PieOutline-PieOutline",
     stroke: "none",
     strokeWidth: 1,

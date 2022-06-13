@@ -12,7 +12,7 @@ function VideoOutline(props) {
       verticalAlign: '-0.125em'
     }, props.style),
     className: ['antd-mobile-icon', props.className].filter(Boolean).join(' ')
-  }), /*#__PURE__*/React.createElement("title", null, "3FD52B42-24F8-45FF-81D6-47688CF44C43@2x"), /*#__PURE__*/React.createElement("g", {
+  }), /*#__PURE__*/React.createElement("g", {
     id: "VideoOutline-VideoOutline",
     stroke: "none",
     strokeWidth: 1,

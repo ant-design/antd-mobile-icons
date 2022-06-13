@@ -12,7 +12,7 @@ function FlagOutline(props) {
       verticalAlign: '-0.125em'
     }, props.style),
     className: ['antd-mobile-icon', props.className].filter(Boolean).join(' ')
-  }), /*#__PURE__*/React.createElement("title", null, "C73D2B56-0F2A-456C-AC76-661A487971AF@2x"), /*#__PURE__*/React.createElement("g", {
+  }), /*#__PURE__*/React.createElement("g", {
     id: "FlagOutline-FlagOutline",
     stroke: "none",
     strokeWidth: 1,

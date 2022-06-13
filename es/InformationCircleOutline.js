@@ -12,7 +12,7 @@ function InformationCircleOutline(props) {
       verticalAlign: '-0.125em'
     }, props.style),
     className: ['antd-mobile-icon', props.className].filter(Boolean).join(' ')
-  }), /*#__PURE__*/React.createElement("title", null, "B9A8225B-7002-4C4D-A4B8-8C6F3A9F0300@2x"), /*#__PURE__*/React.createElement("g", {
+  }), /*#__PURE__*/React.createElement("g", {
     id: "InformationCircleOutline-InformationCircleOutline",
     stroke: "none",
     strokeWidth: 1,

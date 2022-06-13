@@ -12,7 +12,7 @@ function MailFill(props) {
       verticalAlign: '-0.125em'
     }, props.style),
     className: ['antd-mobile-icon', props.className].filter(Boolean).join(' ')
-  }), /*#__PURE__*/React.createElement("title", null, "64E3A3C6-A844-404B-AA82-69802EBB56DC@2x"), /*#__PURE__*/React.createElement("g", {
+  }), /*#__PURE__*/React.createElement("g", {
     id: "MailFill-MailFill",
     stroke: "none",
     strokeWidth: 1,

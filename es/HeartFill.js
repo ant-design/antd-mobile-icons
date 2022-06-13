@@ -12,7 +12,7 @@ function HeartFill(props) {
       verticalAlign: '-0.125em'
     }, props.style),
     className: ['antd-mobile-icon', props.className].filter(Boolean).join(' ')
-  }), /*#__PURE__*/React.createElement("title", null, "FD08974D-71EC-4E1C-845F-B74BDECD3B89@2x"), /*#__PURE__*/React.createElement("g", {
+  }), /*#__PURE__*/React.createElement("g", {
     id: "HeartFill-HeartFill",
     stroke: "none",
     strokeWidth: 1,

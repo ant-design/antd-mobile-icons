@@ -12,7 +12,7 @@ function StarFill(props) {
       verticalAlign: '-0.125em'
     }, props.style),
     className: ['antd-mobile-icon', props.className].filter(Boolean).join(' ')
-  }), /*#__PURE__*/React.createElement("title", null, "3BB4CD5A-43D5-4503-ACE7-26AF1FEECB07@2x"), /*#__PURE__*/React.createElement("g", {
+  }), /*#__PURE__*/React.createElement("g", {
     id: "StarFill-StarFill",
     stroke: "none",
     strokeWidth: 1,

@@ -12,7 +12,7 @@ function ForbidFill(props) {
       verticalAlign: '-0.125em'
     }, props.style),
     className: ['antd-mobile-icon', props.className].filter(Boolean).join(' ')
-  }), /*#__PURE__*/React.createElement("title", null, "F2D54BA5-51A9-44E9-89FD-337FE2B700D0@2x"), /*#__PURE__*/React.createElement("g", {
+  }), /*#__PURE__*/React.createElement("g", {
     id: "ForbidFill-ForbidFill",
     stroke: "none",
     strokeWidth: 1,

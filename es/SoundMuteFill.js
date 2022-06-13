@@ -12,7 +12,7 @@ function SoundMuteFill(props) {
       verticalAlign: '-0.125em'
     }, props.style),
     className: ['antd-mobile-icon', props.className].filter(Boolean).join(' ')
-  }), /*#__PURE__*/React.createElement("title", null, "FC518562-BA1E-4975-86AB-D194CD86F43A@2x"), /*#__PURE__*/React.createElement("g", {
+  }), /*#__PURE__*/React.createElement("g", {
     id: "SoundMuteFill-SoundMuteFill",
     stroke: "none",
     strokeWidth: 1,

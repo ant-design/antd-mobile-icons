@@ -12,7 +12,7 @@ function DownCircleOutline(props) {
       verticalAlign: '-0.125em'
     }, props.style),
     className: ['antd-mobile-icon', props.className].filter(Boolean).join(' ')
-  }), /*#__PURE__*/React.createElement("title", null, "CDDFE012-B464-4933-942F-263801E52676@2x"), /*#__PURE__*/React.createElement("g", {
+  }), /*#__PURE__*/React.createElement("g", {
     id: "DownCircleOutline-DownCircleOutline",
     stroke: "none",
     strokeWidth: 1,

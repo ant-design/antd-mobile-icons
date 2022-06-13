@@ -12,7 +12,7 @@ function LocationOutline(props) {
       verticalAlign: '-0.125em'
     }, props.style),
     className: ['antd-mobile-icon', props.className].filter(Boolean).join(' ')
-  }), /*#__PURE__*/React.createElement("title", null, "C27D33E3-40A2-4AF5-B43E-2128801DE97C@2x"), /*#__PURE__*/React.createElement("g", {
+  }), /*#__PURE__*/React.createElement("g", {
     id: "LocationOutline-LocationOutline",
     stroke: "none",
     strokeWidth: 1,

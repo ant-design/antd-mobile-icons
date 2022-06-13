@@ -12,7 +12,7 @@ function BellMuteOutline(props) {
       verticalAlign: '-0.125em'
     }, props.style),
     className: ['antd-mobile-icon', props.className].filter(Boolean).join(' ')
-  }), /*#__PURE__*/React.createElement("title", null, "FFA0E358-E0E9-4943-8BA3-AE652492883C@2x"), /*#__PURE__*/React.createElement("g", {
+  }), /*#__PURE__*/React.createElement("g", {
     id: "BellMuteOutline-BellMuteOutline",
     stroke: "none",
     strokeWidth: 1,

@@ -12,7 +12,7 @@ function EnvironmentOutline(props) {
       verticalAlign: '-0.125em'
     }, props.style),
     className: ['antd-mobile-icon', props.className].filter(Boolean).join(' ')
-  }), /*#__PURE__*/React.createElement("title", null, "90494B00-280A-4403-BC2C-720E36387022@2x"), /*#__PURE__*/React.createElement("g", {
+  }), /*#__PURE__*/React.createElement("g", {
     id: "EnvironmentOutline-EnvironmentOutline",
     stroke: "none",
     strokeWidth: 1,

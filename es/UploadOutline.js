@@ -12,7 +12,7 @@ function UploadOutline(props) {
       verticalAlign: '-0.125em'
     }, props.style),
     className: ['antd-mobile-icon', props.className].filter(Boolean).join(' ')
-  }), /*#__PURE__*/React.createElement("title", null, "D6DB3EFA-B34C-428E-A174-6A4F62E6E540@2x"), /*#__PURE__*/React.createElement("g", {
+  }), /*#__PURE__*/React.createElement("g", {
     id: "UploadOutline-UploadOutline",
     stroke: "none",
     strokeWidth: 1,

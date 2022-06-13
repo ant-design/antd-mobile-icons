@@ -12,7 +12,7 @@ function CameraOutline(props) {
       verticalAlign: '-0.125em'
     }, props.style),
     className: ['antd-mobile-icon', props.className].filter(Boolean).join(' ')
-  }), /*#__PURE__*/React.createElement("title", null, "B4A41CFA-C5C0-441B-A4DA-02D97D4F9CEC@2x"), /*#__PURE__*/React.createElement("g", {
+  }), /*#__PURE__*/React.createElement("g", {
     id: "CameraOutline-CameraOutline",
     stroke: "none",
     strokeWidth: 1,

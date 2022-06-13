@@ -12,7 +12,7 @@ function MessageFill(props) {
       verticalAlign: '-0.125em'
     }, props.style),
     className: ['antd-mobile-icon', props.className].filter(Boolean).join(' ')
-  }), /*#__PURE__*/React.createElement("title", null, "32430ABC-BBF4-4419-9688-83F66DA664E6@2x"), /*#__PURE__*/React.createElement("g", {
+  }), /*#__PURE__*/React.createElement("g", {
     id: "MessageFill-MessageFill",
     stroke: "none",
     strokeWidth: 1,

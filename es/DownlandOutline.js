@@ -12,7 +12,7 @@ function DownlandOutline(props) {
       verticalAlign: '-0.125em'
     }, props.style),
     className: ['antd-mobile-icon', props.className].filter(Boolean).join(' ')
-  }), /*#__PURE__*/React.createElement("title", null, "8F9F8197-D2C1-4784-AB32-361A58935865@2x"), /*#__PURE__*/React.createElement("g", {
+  }), /*#__PURE__*/React.createElement("g", {
     id: "DownlandOutline-DownlandOutline",
     stroke: "none",
     strokeWidth: 1,

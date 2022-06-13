@@ -12,7 +12,7 @@ function CheckCircleFill(props) {
       verticalAlign: '-0.125em'
     }, props.style),
     className: ['antd-mobile-icon', props.className].filter(Boolean).join(' ')
-  }), /*#__PURE__*/React.createElement("title", null, "1DC796E9-1605-4FAA-B2F4-350EE27781EB@2x"), /*#__PURE__*/React.createElement("g", {
+  }), /*#__PURE__*/React.createElement("g", {
     id: "CheckCircleFill-CheckCircleFill",
     stroke: "none",
     strokeWidth: 1,
